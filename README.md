@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharminDesai
+- 🏭 I'm currently seeking for ... A Job as an Robotics/Automation Engineer in the USA
 - 👀 I’m interested in ... Industrial Automation & Robotics Engineering Technology
 - 🌱 I’m currently learning ... Robotics Engineering & Artificial Intelligence
-- 🏭 I'm also currently seeking for ... A Job as an Robotics/Automation Engineer in the USA
 - 📫 How to reach me ... desaicharmin@gmail.com 
