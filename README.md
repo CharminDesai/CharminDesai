@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharminDesai
 - 👀 I’m interested in ... Industrial Automation & Robotics Engineering Technology
 - 🏭 I'm currently seeking for a Full-Time Job as an Robotics/Mechatronics/Automation Engineer in the USA
-- 📄 Check my Resume ... https://github.com/CharminDesai/CharminDesai/blob/main/Charmin_Pritesh_Desai_Resume.pdf
+- 📄 Check my Resume ... https://github.com/CharminDesai/CharminDesai/blob/main/Charmin_Pritesh_Desai_Resume.pdf target=”_blank”
 - 🌱 I’m currently learning ... Robotics Engineering & Artificial Intelligence
 - 📫 How to reach me ... 1) charminp@buffalo.edu 2) desaicharmin@gmail.com
