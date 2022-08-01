@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharminDesai
+- 👋 Hi, I’m Charmin Pritesh Desai
 - 👀 I’m interested in ... Industrial Automation & Robotics Engineering Technology
 - 🏭 I'm currently seeking for a Full-Time Job as an Robotics/Mechatronics/Automation Engineer in the USA
 - 📄 Check my Resume ... https://github.com/CharminDesai/CharminDesai/blob/main/Charmin_Pritesh_Desai_Resume.pdf
